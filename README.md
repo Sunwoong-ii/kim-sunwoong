@@ -1,4 +1,4 @@
-# 👋Hi, I'm Jinseo James Cha !!!
+# 👋신입 iOS 개발자 김선웅 입니다!!!
 
 I am a Back-end Developer.<br> I love learing new technology and skills of Web, and Server side.<br>
 And leaving in Korea now.<br>
